@@ -1,2 +1,4 @@
-# ai_agent_self_study_portfolio
+# AI Agent Self Study Portfolio
 Learning Products from my self-study course on AI agents
+
+Week One: AI Agents for Brown Dwarf Research and Small Astronomy Teams
